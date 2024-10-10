@@ -118,3 +118,4 @@ Gostaríamos de expressar a nossa gratidão às plataformas de dados abertos e b
 **_Edmauro Goma_** - Estudante de Ciencia da Computação & Entusiasta em pesquisa de inteligência artificial e software
 
 ---
+# ggpen_hack
